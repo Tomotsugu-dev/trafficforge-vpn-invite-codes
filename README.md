@@ -12,7 +12,7 @@
 
 ### 带宽 & 延迟（东京节点）
 
-<div>
+<div align="center">
     <img src="imgs/带宽延迟.png" alt="带宽延迟" width="600">
 </div>
 
@@ -22,7 +22,7 @@ Speedtest 实测（东京 SoftBank 节点）：下载 **254 Mbps**，上传 **23
 
 ### IP 纯净度
 
-<div>
+<div align="center">
     <img src="imgs/IP纯净度.png" alt="IP 纯净度" width="600">
 </div>
 
