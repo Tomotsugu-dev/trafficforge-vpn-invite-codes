@@ -8,7 +8,7 @@
 
 ## 节点质量
 
-主打 **日本 SoftBank 原生住宅 IP**，低延迟、高带宽、IP 纯净度高，适合流媒体解锁（Netflix / YouTube / ChatGPT）与日常科学上网。
+主打 **日本 SoftBank 原生住宅 IP**，低延迟、高带宽、IP 纯净度高，适合需要高 IP 质量的场景（如 ChatGPT、Claude 等 AI 服务）。
 
 ### 带宽 & 延迟（东京节点）
 
