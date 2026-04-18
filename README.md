@@ -16,7 +16,7 @@
     <img src="imgs/带宽延迟.png" alt="带宽延迟" width="600">
 </div>
 
-Speedtest 实测：下载 **141 Mbps**，上传 **147 Mbps**，Ping **40 ms**。
+Speedtest 实测（东京 SoftBank 节点）：下载 **254 Mbps**，上传 **238 Mbps**，Ping **31 ms**。
 
 ### IP 纯净度
 
