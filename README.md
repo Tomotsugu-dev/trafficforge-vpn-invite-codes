@@ -2,7 +2,7 @@
 
 > **Traffic Forge** 是一家主打日本 SoftBank 原生住宅 IP 的 VPN 机场（科学上网 / 翻墙代理服务），支持 Clash、Sing-box、V2rayN、Shadowrocket 等主流客户端。
 >
-> 本仓库每周公布 **10 个 Traffic Forge 试用邀请码**，新用户可凭邀请码在官网注册并免费领取试用订阅。
+> 本仓库每周公布 **10 个 Traffic Forge 试用邀请码**，新用户可凭邀请码在官网注册并免费领取 **一个月（30 天）** 试用订阅。
 
 **关键词**：VPN · 机场 · 科学上网 · 梯子 · 翻墙 · SoftBank 住宅 IP · Clash · Sing-box · V2rayN · Shadowrocket · Trojan · Hysteria2
 
@@ -30,11 +30,11 @@ ASN 归属 **SoftBank Corp.**（日本原生住宅 IP，非数据中心），风
 
 ## 本周邀请码
 
-最新一期：[invite-codes/2026-04-18.md](invite-codes/2026-04-18.md)
+最新一期：[invite-codes/2026-04-28.md](invite-codes/2026-04-28.md)（一个月有效期）
 
 ## 使用流程
 
-1. 从 [本周邀请码](invite-codes/2026-04-18.md) 中复制一个未被使用的邀请码
+1. 从 [本周邀请码](invite-codes/2026-04-28.md) 中复制一个未被使用的邀请码
 2. 打开 <https://www.kyosweb.com/register>
 3. 注册时填入邀请码
 4. 登录后台获取订阅链接，导入 Clash / Sing-box / V2rayN 等客户端即可
@@ -51,7 +51,7 @@ ASN 归属 **SoftBank Corp.**（日本原生住宅 IP，非数据中心），风
 ## 说明
 
 - 邀请码先到先得，用完为止
-- 试用期结束后可在官网购买正式套餐
+- **试用期为一个月（30 天）**，结束后可在官网购买正式套餐继续使用
 - 邀请码仅用于首次注册，不可叠加
 
 ---
